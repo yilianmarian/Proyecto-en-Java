@@ -94,9 +94,13 @@
               <Color blue="ff" green="ff" red="ff" type="rgb"/>
             </Property>
             <Property name="model" type="javax.swing.table.TableModel" editor="org.netbeans.modules.form.editors2.TableModelEditor">
-              <Table columnCount="3" rowCount="45">
+              <Table columnCount="3" rowCount="49">
                 <Column editable="true" title="ID" type="java.lang.String">
-                  <Data value="#3456"/>
+                  <Data value="#1"/>
+                  <Data value="#2"/>
+                  <Data value="#3"/>
+                  <Data value="#4"/>
+                  <Data value="#5"/>
                   <Data value="null"/>
                   <Data value="null"/>
                   <Data value="null"/>
@@ -143,7 +147,11 @@
                   <Data value="null"/>
                 </Column>
                 <Column editable="true" title="Nombre" type="java.lang.String">
-                  <Data value="Matillo"/>
+                  <Data value="Martillo"/>
+                  <Data value="Alicates"/>
+                  <Data value="Llaves allen"/>
+                  <Data value="Destornilladores"/>
+                  <Data value="Cutters"/>
                   <Data value="null"/>
                   <Data value="null"/>
                   <Data value="null"/>
@@ -190,12 +198,16 @@
                   <Data value="null"/>
                 </Column>
                 <Column editable="true" title="Precio" type="java.lang.String">
-                  <Data value="1200"/>
+                  <Data value="600"/>
+                  <Data value="250"/>
+                  <Data value="600"/>
+                  <Data value="700"/>
+                  <Data value="400"/>
+                  <Data value=""/>
                   <Data value="null"/>
                   <Data value="null"/>
                   <Data value="null"/>
-                  <Data value="null"/>
-                  <Data value="null"/>
+                  <Data value=""/>
                   <Data value="null"/>
                   <Data value="null"/>
                   <Data value="null"/>

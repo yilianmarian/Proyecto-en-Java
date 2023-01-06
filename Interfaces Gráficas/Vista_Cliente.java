@@ -39,12 +39,16 @@ public class Vista_Cliente extends javax.swing.JFrame {
         t.setForeground(new java.awt.Color(255, 255, 255));
         t.setModel(new javax.swing.table.DefaultTableModel(
             new Object [][] {
-                {"#3456", "Matillo", "1200"},
+                {"#1", "Martillo", "600"},
+                {"#2", "Alicates", "250"},
+                {"#3", "Llaves allen", "600"},
+                {"#4", "Destornilladores", "700"},
+                {"#5", "Cutters", "400"},
+                {null, null, ""},
                 {null, null, null},
                 {null, null, null},
                 {null, null, null},
-                {null, null, null},
-                {null, null, null},
+                {null, null, ""},
                 {null, null, null},
                 {null, null, null},
                 {null, null, null},
