@@ -1,4 +1,4 @@
-# Ferreteria el tablillazo
+# Ferreteria EL TABLILLAZO
 
 Los objetivos de este trabajo se orientan a la administración de la información de usuarios, de inventarios, ventas y artículos. Pretende ser una herramienta que permita optimizar el servicio dentro de las labores administrativas de la ferretería, no se trata de una ferretería con tienda online si no un recurso para facilitar la comercialización y pre-venta de productos, esa preventa se pretende hacer a través de cotizaciones.  Se verán beneficiados en los siguientes aspectos: Los clientes contarán con la facilidad de hacer cotizaciones en línea, aun cuando la ferretería no este prestando servicio, esto les permitirá a los clientes conocer productos nuevos y la cantidad que se  está ofreciendo con sus correspondientes precios, sosteniendo el precio que se registre en la cotización. Los empleados podrán iniciar sesión y hacer las ventas con o sin cotizaciones. El administrador podrá tener a su disposición información de todo lo que está quedando en la base de datos por medio de la web, y a si mismo podrá insertar, editar y borrar datos. 
 
@@ -6,22 +6,22 @@ Se espera con este proyecto contribuir a:
 Proporcionar herramienta administrativa a la microempresa EL TABLILLAZO, minimizar las perdidas de información dentro de dicha ferretería, monitorear las cotizaciones y ver a través de las ventas registradas que productos se están vendiendo con más frecuencia, prestar un servicio aun cuando la ferretería este cerrada, crear un ambiente ameno en el campo laboral dentro de la ferretería EL TABLILLAZO, permitir en un tiempo posterior hacer nuevos cambios a la herramienta web. 
 
 ***
-Colaboradores: 
+COLABORADORES: 
 Yillian Marian Galano Pastrana,Rachel Cepero Rodriguez y Janny Campos Mora
 
 ***
-Clases implementadas y por cada miembro:
+CLASES IMPLEMENTADAS POR CADA COLABORADOR:
 
 Yillian Galano Pastrana utilizo la clase comentario con los atributos remitente, texto, direccion, id y datos, la clase cotizacion con los atributos producto, comprador, id y datos, la clase empleado con los atributos nombre y contraseña y la clase rebaja con los atributos producto, vendedor,id y dato. 
 Janny Campos Mora  utilizo la clase administrador con los atributos nombre y CI, la clase articulos con los atributos id, nombre, descripcion, cantidad, valor unitario y valor total, la clase main que es donde se inicializa el programa y la clase registro con los atributos id, dato, nombre y descripcion
 Rachel Cepero Rodriguez utilizo la clase cliente con los atributos nombre y contraseña y la clase usuarios con los atributos nombre y contraseña
 ***
-Trabajo con archivos por cada miembro:
+TRABAJO CON ARCHIVOS POR CADA COLABORADOR:
 
 Se desarrollo el trabajo con archivos de la clase registro(por la colaboradora Yillian),de la clase articulos(por la colaboradora Rachel) y la clase cliente y empleado(por la colaboradora Janny) ,con el objetivo de guardar y cargar los datos de estas clases en una lista para luego almacenarlos en una tabla que vamos a emplear en la aplicacion
 
 ***
-Interfaces graficas realizadas en el trabajo por cada colaborador:
+INTERFACES GRAFICAS REALIZADAS EN EL TRABAJO POR CADA COLABORADOR:
 
 La imagen siguiente es el inicio de la página, se pueden encontrar pestañas con los siguientes nombres: inicio y contáctenos. En esta pestaña el usuario podrá ingresar a su perfil, ya sea un cliente, empleado o administrador donde podrá hacer uso de servicios según sea el perfil ingresado.(Interfaz realizada por Janny) 
 
